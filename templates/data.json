@@ -1,4 +1,12 @@
 {
+   "star2": {
+    "name": "star2.png",
+    "x": 3300,
+    "y": 1668,
+    "width": 112,
+    "height": 150
+   }
+},
     "RFfoe": {
    	 "name": "RFfoe.png",
   	  "x": -2155,

@@ -1,0 +1,88 @@
+{
+    "RFfoe": {
+   	 "name": "RFfoe.png",
+  	  "x": -2155,
+  	  "y": -2062,
+  	  "width": 2432,
+  	  "height": 603 
+},   
+    "10": {
+   	 "name": "10.png",
+  	  "x": -1634,
+  	  "y": 1095,
+  	  "width": 174,
+  	  "height": 14 
+},   
+    "Argentina": {
+    "name": "Argentina.png",
+    "x": -35,
+    "y": 443,
+    "width": 347,
+    "height": 246 
+},
+    "Lyra2": {
+    "name": "Lyra2.png",
+    "x": 1969,
+    "y": 1017,
+    "width": 306,
+    "height": 474 
+},
+    "free2": {
+    "name": "free2.png",
+    "x": 3271,
+    "y": 212,
+    "width": 824,
+    "height": 671 
+},
+    "mane2": {
+    "name": "mane2.png",
+    "x": 3271,
+    "y": 883,
+    "width": 822,
+    "height": 349 
+},
+    "hangout": {
+    "name": "hangout.png",
+    "x": 2275,
+    "y": 821,
+    "width": 550,
+    "height": 273 
+},
+    "oczone2": {
+    "name": "oczone2.png",
+    "x": 3300,
+    "y": 1095,
+    "width": 443,
+    "height": 381 
+},
+   "LyraBonBench2": {
+    "name": "LyraBonBench2.png",
+    "x": -2361,
+    "y": -2446,
+    "width": 145,
+    "height": 80 
+},
+   "KarinSultan": {
+    "name": "KarinSultan.png",
+    "x": 307,
+    "y": -904,
+    "width": 204,
+    "height": 200 
+},  
+   "Foe3": {
+    "name": "Foe3.png",
+    "x": 2275,
+    "y": 1095,
+    "width": 1024,
+    "height": 723
+   }
+},  
+   "Chn": {
+    "name": "Chn.png",
+    "x": 3272,
+    "y": 3370,
+    "width": 99,
+    "height": 109
+   }
+}
+
